@@ -13,3 +13,5 @@ hugo new site acme_corp --format yaml
 **YAML**: YAML Ain't Markup Language
 
 **TOML**: Tom's Obvious Minimal Language
+
+**!!!**: The items in the numbered list at the beginning of chapter 2.2 all have the number 1.
