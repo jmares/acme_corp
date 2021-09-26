@@ -15,3 +15,5 @@ hugo new site acme_corp --format yaml
 **TOML**: Tom's Obvious Minimal Language
 
 **!!!**: The items in the numbered list at the beginning of chapter 2.2 all have the number 1.
+
+**!!!**: Exercise 2.5 should be moved from before chapter 2.3.1 to before chapter 2.3
