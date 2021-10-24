@@ -1,7 +1,7 @@
 baseURL: https://jmares.github.io/acme_corp/
 languageCode: en-us 
 title: Acme Corporation 
-theme: Universal
+theme: Eclectic
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -10,6 +10,14 @@ author:
   location: New York 
   phone: (999) 999-9999 
   hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET" 
+
+markup:
+  goldmark: 
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: true
+enableEmoji: true
 
 menu:
   main: 

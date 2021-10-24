@@ -68,3 +68,16 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 ```
+
+It isn't always clear for example if a file needs to be put in the main `static` folder or the theme's `static` folder.
+
+**It is strongly advised to minimize the use of embedded HTML in Markdown content.**
+
+Inline HTML is disabled by default in Hugo and needs to be enabled using the config.
+
+```yaml
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+```
