@@ -4,6 +4,8 @@ Exercise from the book *Hugo in Action - Static sites and dynamic Jamstack apps*
 
 It is currently (25/09/2021) still a MEAP, *Manning Early Access Program*, and at version 12.
 
+Restarting on 2021-11-22 with version 13.
+
 Create the site:
 
 ```bash
