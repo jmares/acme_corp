@@ -85,3 +85,5 @@ markup:
 ```
 
 Have I encoutered even one subchapter from the chapters 3 and 4 without errors?
+
+Chapter 4.4 and before: In the text the author uses floats (eg. 1.2) for the weights, but in the sample code he uses integers (eg. 120).
