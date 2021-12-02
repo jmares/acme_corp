@@ -3,11 +3,11 @@ menu:
   main:
     name: Blog
     identifier: blog
-    weight: 1.1
+    weight: 110
     post: From our editor
   footer:
     name: Blog
-    weight: 1
+    weight: 100
 ---
 The Acme Blog
 ============

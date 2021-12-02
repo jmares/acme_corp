@@ -87,3 +87,12 @@ markup:
 Have I encoutered even one subchapter from the chapters 3 and 4 without errors?
 
 Chapter 4.4 and before: In the text the author uses floats (eg. 1.2) for the weights, but in the sample code he uses integers (eg. 120).
+
+I AM NEVER GOING TO BUY A MEAP (Manning Early Access Program) BOOK AGAIN. 
+
+Instead of feeling privileged for having early access, what I feel is frustration of having to work with an unfinished book.
+
+I wish I had never started with this book. Chapter 5 was slightly better, but chapter 6 is chaotic. Sometimes it doesn't mention the files you need to copy to your site, then you get a snippet of code, but nowhere is mentioned where in the given file it belongs, so you have to look it up in GitHub repository for this book. Most frustratingly is when you have to add a snippet of code, but it is nowhere to be found on the GitHub repository. Or the code in the GitHub repository doens't match the code from the book. I already came very close just forgot about this book.
+
+A couple of pages later: I quit. I barely know what I am doing, the text in the book doens't give me an understanding of hwat I am doing and why.
+
